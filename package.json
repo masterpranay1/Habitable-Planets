@@ -1,0 +1,14 @@
+{
+  "name": "planet-project",
+  "version": "0.1.0",
+  "description": "A Node App using kepler data and finding life on exoplanets :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranay Raj",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
